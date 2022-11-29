@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Ansible Automations, RESTful API's, Python with Django developing and UNIX.
+
 <!--
 **s1mp73x/s1mp73x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
